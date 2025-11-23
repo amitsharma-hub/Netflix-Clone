@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    font-family: sans-serif;
 }
 
 * {
@@ -332,6 +333,9 @@ footer .top {
 .footer-links a {
     color: white;
 
+}
+.footer-social {
+    padding: 20px 0px;
 }
 
 .downholder {
