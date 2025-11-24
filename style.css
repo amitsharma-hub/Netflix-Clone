@@ -190,17 +190,19 @@ nav button svg {
 }
 
 .image img {
-    width: 508px;
+    width: 360px;
     z-index: 10;
     position: relative;
+    height: 320px;
+    padding: 21px 0px;
 }
 
 .image video {
-    width: 410px;
+    width: 309px;
     position: absolute;
-    top: 68px;
+    top: 89px;
     right: 51px;
-    z-index: 9;
+    z-index: 6;
 }
 
 .faq {
@@ -277,8 +279,8 @@ footer .top {
     }
 
     .image video {
-        width: 220px;
-        top: 38px;
+        width: 232px;
+        top: 109px;
         left: 29px;
         z-index: 9;
 
@@ -334,6 +336,7 @@ footer .top {
     color: white;
 
 }
+
 .footer-social {
     padding: 20px 0px;
 }
