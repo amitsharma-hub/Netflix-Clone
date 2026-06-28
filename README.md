@@ -11,17 +11,7 @@ A modern and responsive **Netflix Landing Page Clone** built using **HTML5** and
 
 ## 📌 Live Demo
 
-🔗 **Website:** https://YOUR-LIVE-LINK
-
----
-
-## 📸 Preview
-
-> Add a screenshot of your project here.
-
-```
-assets/images/screenshot.png
-```
+🔗 **Website:** https://amitsharma-hub
 
 ---
 
@@ -107,14 +97,6 @@ This project helped me practice:
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-*Add your screenshot here*
-
----
-
 ## 🔮 Future Improvements
 
 * Add JavaScript functionality
@@ -143,8 +125,8 @@ Contributions are welcome!
 
 **Amit Kumar**
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/amitsharma-hub
+* LinkedIn: https://linkedin.com/in/amitsharma386/
 
 ---
 
