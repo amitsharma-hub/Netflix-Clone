@@ -11,7 +11,7 @@ A modern and responsive **Netflix Landing Page Clone** built using **HTML5** and
 
 ## 📌 Live Demo
 
-🔗 **Website:** https://amitsharma-hub
+🔗 **Website:** https://amit-streaming-website.netlify.app/
 
 ---
 
