@@ -3,7 +3,7 @@ Netflix Clone (Landing Page)
 A pixel-perfect frontend clone of the Netflix Landing Page built using HTML, CSS, and JavaScript. This project replicates the layout, typography, responsive design, and dynamic elements of the original Netflix home page.
 
 🚀 Live Demo
-- **Live Website:**[ [amit-streaming-website.netlify.app](https://amit-streaming-website.netlify.app)](https://amit-streaming-website.netlify.app/)
+- **Live Website:**https://amit-streaming-website.netlify.app/
 
 ✨ Features
 - **Responsive Layout:** Perfectly aligned for desktop, tablet, and mobile devices using CSS Flexbox & Grid.
